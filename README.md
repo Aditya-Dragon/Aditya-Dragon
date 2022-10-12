@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aditya-Dragon
+- 👋 Hi, I’m Aditya Dey
 - 👀 I’m interested in Ethical Hacking & Cybersecurity, Web & Android App Development, Machine Learning. 
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on any project in aforementioned topics
